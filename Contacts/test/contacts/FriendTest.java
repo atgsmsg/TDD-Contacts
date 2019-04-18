@@ -47,6 +47,10 @@ public class FriendTest {
         String expResult = "";
         String result = instance.toString();
         assertEquals(expResult, result);
+        // TODO review the generated test code and remove the default call to fail. Kill it
+        // kill it all
+        // ahhh conflicts
+        fail("The test case is a prototype.");
     }
 
     /**
